@@ -1,4 +1,4 @@
-# JS - Zajęcia #
+# JS - Zajęcia 7: Callback i funkcje strzałkowe
 
 ### Jak uruchomić?
 
